@@ -51,11 +51,11 @@ These thoughts mean STOP—you're rationalizing:
 
 ## Hermes Tool Adaptation
 
-This plugin runs only on Hermes Agent. Read `references/hermes-tools.md` for
+This plugin runs only on Hermes Agent. Read 'references/hermes-tools.md' for
 the native tool mapping and instruction-file conventions.
 
 ## User Instructions
 
-User instructions (`AGENTS.md`, global `SOUL.md`, and direct requests) take
+User instructions ('AGENTS.md', global 'SOUL.md', and direct requests) take
 precedence over skills, which in turn override default behavior. Only skip
 skill workflows or instructions when your human partner has explicitly told you to.
