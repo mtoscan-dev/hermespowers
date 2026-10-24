@@ -1,0 +1,6 @@
+name: hermespowers
+version: 0.0.4
+description: Superpowers skills and workflow bootstrap optimized for Hermes Agent 
+author: mtoscan-dev
+provides_hooks:
+  - pre_llm_call
